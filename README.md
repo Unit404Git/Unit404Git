@@ -1,22 +1,21 @@
 <!-- Profil-Header -->
-<h1 align="center">Hi, ich bin [Dein Name] 👋</h1>
+<h1 align="center">Hi, wir sind Unit404 👋</h1>
 <p align="center">
-  <em>[Kurzer Satz: Was machst du? z. B. Full-Stack-Dev | Open-Source | ML-Enthusiast]</em>
+  <em>Wir haben auch Software!</em>
 </p>
 
 <!-- Schnelle Links -->
 <p align="center">
-  <a href="mailto:[deine@mail.tld]">Kontakt</a> •
-  <a href="https://[deine-website-oder-linktree]">Website</a> •
-  <a href="https://www.linkedin.com/in/[dein-handle]">LinkedIn</a>
+  <a href="mailto:[mail@unit404.net]">Kontakt</a> •
+  <a href="https://[unit404.net]">Website</a> •
 </p>
 
 ---
 
 ### 🚀 Aktuell
-- 🔭 Ich arbeite an: **[Projektname]**
-- 🌱 Ich lerne gerade: **[Tech/Thema]**
-- 💬 Frag mich zu: **[Themen]**
+- 🔭 Wir arbeiten an: **[Projektname]**
+- 🌱 Wir lernen gerade: **[Tech/Thema]**
+- 💬 Fragt uns zu: **[Themen]**
 
 ### 🧰 Tech-Stack
 
@@ -32,10 +31,8 @@
   <img alt="Top Langs" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[DEIN_USERNAME]&layout=compact" />
 </p>
 
-### 📫 So erreichst du mich
-- Mail: [deine@mail.tld]
-- LinkedIn: [dein Profil]
-- Mastodon/Twitter: [optional]
+### 📫 So erreicht ihr uns
+- Mail: mail@unit404.net
 
 ---
 
