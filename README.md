@@ -26,10 +26,13 @@
 
 ### 📊 Stats
 <!-- Du kannst diese Zeilen löschen, wenn du keine Badges willst -->
+<!--
 <p>
   <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=[DEIN_USERNAME]&show_icons=true&hide_title=true" />
   <img alt="Top Langs" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[DEIN_USERNAME]&layout=compact" />
 </p>
+
+-->
 
 ### 📫 So erreicht ihr uns
 - Mail: mail@unit404.net
