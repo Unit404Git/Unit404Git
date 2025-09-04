@@ -1,7 +1,7 @@
 <!-- Profil-Header -->
 <h1 align="center">Hi, wir sind Unit404 👋</h1>
 <p align="center">
-  <em>Wir haben auch Software!</em>
+  <em>Wir haben auch Code!</em>
 </p>
 
 <!-- Schnelle Links -->
