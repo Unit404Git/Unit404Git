@@ -21,8 +21,8 @@
 
 
 ### ✨ Highlights
-- **[Projekt A]** – 1-Satz-Pitch. [Repo](https://github.com/[du]/[repo-a]) • [Demo](https://…)
-- **[Projekt B]** – 1-Satz-Pitch. [Repo](https://github.com/[du]/[repo-b])
+<!--- **[Projekt A]** – 1-Satz-Pitch. [Repo](https://github.com/[du]/[repo-a]) • [Demo](https://…)
+- **[Projekt B]** – 1-Satz-Pitch. [Repo](https://github.com/[du]/[repo-b]) -->
 
 ### 📊 Stats
 <!-- Du kannst diese Zeilen löschen, wenn du keine Badges willst -->
