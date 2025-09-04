@@ -6,7 +6,7 @@
 
 <!-- Schnelle Links -->
 <p align="center">
-  <a href="mailto:[mail@unit404.net]">Kontakt</a> •
+  • <a href="mailto:[mail@unit404.net]">Kontakt</a> •
   <a href="https://[unit404.net]">Website</a> •
 </p>
 
